@@ -1,0 +1,5 @@
+append means to update the list by adding an object to the list.It is basically used in Python to add one element.
+The remove() method removes the item which is passed as an argument.
+extend() is used to merge two lists or insert multiple elements in one list.
+The clear statement can be used to delete an entire list. Unlike clear, pop returns the value that it popped off the list.
+Friends2 is a copy of friends
